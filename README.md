@@ -28,3 +28,8 @@ This project explores classification techniques on the MNIST dataset, focusing o
    ```bash
    git clone https://github.com/username/mnist-digit-classification.git
    cd mnist-digit-classification
+2. Install dependencies:    
+   pip install -r requirements.txt
+
+3. Run the script:
+   python mnist_classification.py
