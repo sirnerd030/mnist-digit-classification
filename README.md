@@ -25,11 +25,10 @@ This project explores classification techniques on the MNIST dataset, focusing o
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/mnist-digit-classification.git
-   cd mnist-digit-classification
-2. Install dependencies:    
+   git clone https://github.com/sirnerd030/mnist-digit-classification.git
+   
+3. Install dependencies:    
    pip install -r requirements.txt
 
-3. Run the script:
+4. Run the script:
    python mnist_classification.py
